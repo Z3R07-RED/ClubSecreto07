@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
-minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark"   # "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-BO"
@@ -20,9 +20,9 @@ title                    : "club_secreto_07.io"
 title_separator          : "-"
 name                     : "Z3R07-RED"
 description              : "Posts about security"
-url                      : "https://z3r07-red.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://z3r07-red.github.io/ClubSecreto07/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Z3R07-RED/Z3R07-RED.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/Z3R07-RED/ClubSecreto07.git" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/L2696875_960_720.webp"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -272,3 +272,5 @@ defaults:
       related: true
 
 theme: jekyll-theme-slate
+
+github: [metadata]
